@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .button-30 {
+    @apply shadow-lg hover:shadow-xl;
+  }
+}
