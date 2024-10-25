@@ -18,6 +18,7 @@ module.exports = {
         merienda: ['Merienda', 'cursive'],
         montserrat: ['Montserrat', 'serif'],
         'fugaz-one': ['"Fugaz One"', 'sans-serif'],
+        sriracha: ['"Sriracha"', 'cursive'],
       },
 
       keyframes: {
